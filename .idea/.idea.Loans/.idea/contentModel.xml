@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\vladimirsk\.nuget\packages\microsoft.net.test.sdk\16.3.0\build\netcoreapp1.0" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\vladimirsk\.nuget\packages\microsoft.testplatform.testhost\16.3.0\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
+    <e p="C:\Users\vladimirsk\.nuget\packages\microsoft.testplatform.testhost\16.3.0\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
+    <e p="C:\Users\vladimirsk\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\nunit.engine.api.dll" t="Include" />
+    <e p="C:\Users\vladimirsk\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\nunit.engine.dll" t="Include" />
+    <e p="C:\Users\vladimirsk\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\NUnit3.TestAdapter.dll" t="Include" />
+    <e p="C:\Users\vladimirsk\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\NUnit3.TestAdapter.pdb" t="Include" />
+    <e p="C:\Users\vladimirsk\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\vladimirsk\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Loans.257011511.00" t="ExcludeRecursive" />
+    <e p="D:\vezba\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject" t="IncludeFlat">
+      <e p="Loans" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Domain" t="Include">
+          <e p="Applications" t="Include">
+            <e p="LoanAmount.cs" t="Include" />
+            <e p="LoanProduct.cs" t="Include" />
+            <e p="LoanRepaymentCalculator.cs" t="Include" />
+            <e p="LoanTerm.cs" t="Include" />
+            <e p="MonthlyRepaymentComparison.cs" t="Include" />
+            <e p="ProductComparer.cs" t="Include" />
+          </e>
+          <e p="Entity.cs" t="Include" />
+          <e p="ValueObject.cs" t="Include" />
+        </e>
+        <e p="Loans.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Loans.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Loans.sln" t="IncludeFlat" />
+      <e p="Loans.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Loans.Tests.csproj" t="IncludeRecursive" />
+        <e p="LoanTermShould.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Loans.Tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ProductComparerShould.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
